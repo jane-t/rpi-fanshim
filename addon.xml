@@ -15,7 +15,8 @@
          
          Icon made by Freepik from https://www.flaticon.com/freepik
          </description>
+	 <source>https://github.com/jane-t/rpi-fanshim</source>
          <platform>all</platform>
-         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+         <license>MIT LICENSE</license>
     </extension>
 </addon>
