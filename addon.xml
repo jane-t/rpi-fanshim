@@ -2,7 +2,7 @@
 <addon id="service.fanshim"
        name="Fan Shim"
       version="1.0.0"
-      provider-name="jane">
+      provider-name="jane_t">
     <requires>
 		<import addon="xbmc.addon" version="14.0.0"/>
 		<import addon="xbmc.python" version="2.19.0"/>
