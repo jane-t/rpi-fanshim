@@ -1,0 +1,39 @@
+# Kodi Media Center language file
+# Addon Name: Fan Shim Manager 
+# Addon id: service.fanshim
+# Addon Provider: jane_t
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#settings labels
+
+msgctxt "#30000"
+msgid "Fan Shim Manager"
+""
+
+msgctxt "#30001"
+msgid "Temperature threshold in degrees C to enable fan"
+""
+
+msgctxt "#30002"
+msgid "Temperature threshold in degrees C to disable fan"
+""
+
+msgctxt "#30003"
+msgid "Delay, in seconds, between temperature readings"
+""
+
+msgctxt "#30004"
+msgid "Disable LED control"
+""
+
+msgctxt "#30005"
+msgid "Record all temperatures to Log"
+""
