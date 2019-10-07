@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.fanshim"
+       name="Fan Shim"
+      version="0.0.1"
+      provider-name="jane">
+    <requires>
+		<import addon="xbmc.addon" version="14.0.0"/>
+		<import addon="xbmc.python" version="2.19.0"/>
+		<import addon="virtual.rpi-tools" version="9.1.901.106"/>
+    </requires>
+    <extension point="xbmc.service" library="service.py" start="login"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Fan Shim Controller</summary>
+         <description lang="en">Control Fan Shim allows the setting of threshold temperatures to turn the fan on and off. 
+         
+         Icon made by Freepik from https://www.flaticon.com/freepik
+         </description>
+         <platform>all</platform>
+         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    </extension>
+</addon>
