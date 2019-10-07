@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting id="fan_on_temp" label="30001" default="50" type="slider" range="20,2,100" option="int"/>
+		<setting id="fan_off_temp" label="30002" type="slider" default="42" range="10,2,100" option="int"/>
+		<setting id="delay" label="30003" type="slider" default="2" range="1,1,10" option="int"/>
+		<setting id="noled" label="30004" type="bool" default="false" visible="true"/>
+   		<setting id="debug_mode" label="30005" type="bool" default="false" visible="true"/>
+	</category>
+</settings>
